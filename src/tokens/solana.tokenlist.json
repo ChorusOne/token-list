@@ -16533,6 +16533,18 @@
     },
     {
       "chainId": 101,
+      "address": "EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur",
+      "symbol": "bSOL",
+      "name": "Anchor bonded token for stSOL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur/logo.svg",
+      "extensions": {
+        "twitter": "https://twitter.com/anchor_protocol",
+        "website": "https://anchorprotocol.com/"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "H2mf9QNdU2Niq6QR7367Ua2trBsvscLyX5bz7R3Pw5sE",
       "symbol": "stETH",
       "name": "Lido Staked ETH",
