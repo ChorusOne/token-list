@@ -16535,7 +16535,7 @@
       "chainId": 101,
       "address": "EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur",
       "symbol": "bSOL",
-      "name": "Anchor bonded token for stSOL",
+      "name": "Lido Bonded SOL",
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EbMg3VYAE9Krhndw7FuogpHNcEPkXVhtXr7mGisdeaur/logo.svg",
       "extensions": {
